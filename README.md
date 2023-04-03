@@ -25,7 +25,7 @@ Hi, I am Shoumyadeep Dhani  !!
  <br>
  
 ## Experience 
-- <b>Product and Technology Intern, Cheetah</b> <br> 
+- <b>Product and Technology Intern, CheetahX</b> <br> 
   •Development of Product teardown documents of competitors for understanding of their products<br> 
   •Coordinating with scrum masters for product development<br> 
   •Improving the product roadmaps and ecosystem of cheetahX<br> 
