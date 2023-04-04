@@ -9,13 +9,13 @@ You can find me here :
   <a href="https://www.linkedin.com/in/shoumyadeep-dhani-48468a190/"> 
     <img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/Manu_Mishra"> 
+  <a href="https://www.hackerrank.com/SlimSleeper"> 
     <img title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
    <a href="[https://www.researchgate.net/profile/Shoumyadeep-Dhani]">
      <img  src="https://img.shields.io/badge/Researchgate-F14836?style=for-the-badge&logo=researcgate&logoColor=red"/>
   </a>
-   <a href="https://leetcode.com/Meghs4948/">
+   <a href="https://leetcode.com/SlimSleeper/">
       <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" height=30 alt="Leetcode"/>
     </a>
  </p> 
