@@ -20,10 +20,18 @@ Hi, I am Shoumyadeep Dhani  !!
     solving.
   </p>
   <br>
-- 🔭 I am an undergraduate senior pursuing Bachelor's in Computer Science from India!.<br>
-- 👩‍💻 I find my technical interests in AI, Machine Learning, Blockchain, Deep Learning & Big Data and Analytics <br>
-- 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. <br>
+  
+  <div align="right">
+    <img alt="Coder GIF" align="right" height=250 width=300 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+  </div>
+  
+  <br>
+- 🔭 I am an undergraduate senior pursuing Bachelor's in Computer Science from India!.<br><br>
+- 👩‍💻 I find my technical interests in AI, Machine Learning, Blockchain, Deep Learning <br><br>
+- 👍 I love collaborating new people and enjoy working in teams be it in projects. <br><br>
+- &#128220; Here's my <a href="https://drive.google.com/file/d/1fEIR8u22srcUkEe5NPOhLd_badrkHGCj/view?usp=sharing">Resume</a> 
  
+ <br>
  <br>
  
 ## Experience 
