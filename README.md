@@ -2,13 +2,9 @@
 
 You can find me here :
 <p align="left">
-  <a href="[https://www.linkedin.com/in/hariketsheth](https://www.linkedin.com/in/shoumyadeep-dhani-48468a190/)"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!--   <a href="https://twitter.com/HariketSheth"><img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
+
   <a href="mrsdshoumyadeep@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<!--   <a href="[https://www.researchgate.net/profile/Shoumyadeep-Dhani]"><img  src="https://img.shields.io/badge/Researchgate-F14836?style=for-the-badge&logo=researcgate&logoColor=red"/></a>
-   -->
   <a href="https://www.linkedin.com/in/shoumyadeep-dhani-48468a190/"> <img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:connectmanumishra@gmail.com"> <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/Manu_Mishra"> <img title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
    <a href="[https://www.researchgate.net/profile/Shoumyadeep-Dhani]"><img  src="https://img.shields.io/badge/Researchgate-F14836?style=for-the-badge&logo=researcgate&logoColor=red"/></a>
  </p> 
