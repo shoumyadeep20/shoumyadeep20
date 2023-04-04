@@ -42,12 +42,12 @@ Hi, I am Shoumyadeep Dhani  !!
   •Using Flutter , fabricated the front end of the application in under 2 months.<br> 
   •Successfully created a platform for people to play fantasy tournaments.<br> 
 
-- <b>Publications</b><br>
-  (https://doi.org/10.22214/ijraset.2022.48286)
+<!-- - <b>Publications</b><br>
+  (https://doi.org/10.22214/ijraset.2022.48286) -->
   
   
 
-## Projects
+<!-- ## Projects
 - <b>Facealyzer</b> <br> 
   Analyzed the datasets of diﬀerent facial structures using CNN and Yolo algorithms to detect the drivers under influence and created a program which will trigger an  alarm as soon it detects the face under alcohol and locks the steering wheel of the car
   
@@ -67,7 +67,7 @@ Hi, I am Shoumyadeep Dhani  !!
 ### Honors & Awards 🏅
 
 - <b>HackNight Finalist, Hackclub VITC</b><br>
-  Finalist in 48-hour oﬀline Hackathon sponsored by Crust and Polygon
+  Finalist in 48-hour oﬀline Hackathon sponsored by Crust and Polygon -->
 
   
  <br>
