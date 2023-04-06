@@ -20,7 +20,9 @@ You can find me here :
   </a>
  </p> 
   
-<img src="https://visitor-badge.glitch.me/badge?page_id=shoumyadeep20style=flat-square&color=0088cc" width=80 alt=""/>
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=shoumyadeep20style=flat-square&color=0088cc" width=80 alt=""/> -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoumyadeep20&label=Profile%20views&color=0e75b6&style=flat" alt="shoumyadeep20" /> </p>
 <br>
 
  
