@@ -15,9 +15,9 @@ You can find me here :
    <a href="[https://www.researchgate.net/profile/Shoumyadeep-Dhani]">
      <img  src="https://img.shields.io/badge/Researchgate-F14836?style=for-the-badge&logo=researcgate&logoColor=red"/>
   </a>
-   <a href="https://leetcode.com/SlimSleeper/">
-      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" height=30 alt="Leetcode"/>
-    </a>
+  <a href="https://leetcode.com/SlimSleeper/">
+    <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode%20-FFA116.svg?&style=for-the-badge&logo=Leetcode&logoColor=white" />
+  </a>
  </p> 
   
 <br>
@@ -45,6 +45,14 @@ Hi, I am Shoumyadeep Dhani  !!
  <br>
  <br>
  
+ 
+ ## Connect with me for :
+  - Collaborating on New Projects
+  - Research on Topics - AI, Machine Learning, Blockchain, Deep Learning & Big Data and Analytics
+  - Any new opportunity 
+  
+<br>
+
 ## Experience 
 - <b>Product and Technology Intern, CheetahX</b> <br> 
   •Development of Product teardown documents of competitors for understanding of their products<br> 
@@ -106,9 +114,9 @@ Hi, I am Shoumyadeep Dhani  !!
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<!-- <img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> -->
 <img alt='MySQL' src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=F29111"/>
-<img alt='ReactJS' src="https://img.shields.io/badge/ReactJS-ReactJS?style=for-the-badge&logo=react&color=303030"/>
+<!-- <img alt='ReactJS' src="https://img.shields.io/badge/ReactJS-ReactJS?style=for-the-badge&logo=react&color=303030"/> -->
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-OpenCV?style=for-the-badge&logo=opencv&logoColor=fff&color=5C3EE8"/> 
  
  </a>
@@ -117,11 +125,11 @@ Hi, I am Shoumyadeep Dhani  !!
 
  
 
-## Connect with me for :
+<!-- ## Connect with me for :
   - Collaborating on New Projects
   - Research on Topics - AI, Machine Learning, Blockchain, Deep Learning & Big Data and Analytics
   - Help with getting started with open source.
-  - Any new opportunity 
+  - Any new opportunity  -->
   
 | ![shoumyadeep Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=shoumyadeep20&show_icons=true&include_all_commits=true&theme=radical) | ![shoumyadeep Programming Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shoumyadeep20&theme=tokyonight&layout=compact&) |     
 | :--: | :--: |
