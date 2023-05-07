@@ -18,6 +18,12 @@ You can find me here :
   <a href="https://leetcode.com/SlimSleeper/">
     <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode%20-FFA116.svg?&style=for-the-badge&logo=Leetcode&logoColor=white" />
   </a>
+  <a href="https://www.hackerrank.com/SlimSleeper"> 
+    <img title="Codechef" src="https://img.shields.io/badge/-Codechef-2EC866?style=for-the-badge&logo=Codechef&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/SlimSleeper"> 
+    <img title="Kaggle" src="https://img.shields.io/badge/-Kaggle-0000ff?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+  </a>
  </p> 
   
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=shoumyadeep20style=flat-square&color=0088cc" width=80 alt=""/> -->
