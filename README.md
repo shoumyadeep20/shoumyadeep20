@@ -18,7 +18,7 @@ You can find me here :
   <a href="https://leetcode.com/SlimSleeper/">
     <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode%20-FFA116.svg?&style=for-the-badge&logo=Leetcode&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/SlimSleeper"> 
+  <a href="https://www.codechef.com/users/slimsleeper20"> 
     <img title="Codechef" src="https://img.shields.io/badge/-Codechef-2EC866?style=for-the-badge&logo=Codechef&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/SlimSleeper"> 
