@@ -50,7 +50,7 @@ Hi, I am Shoumyadeep Dhani  !!
 - 🔭 I am an undergraduate senior pursuing Bachelor's in Computer Science from India!.<br><br>
 - 👩‍💻 I find my technical interests in AI, Machine Learning, Blockchain, Deep Learning <br><br>
 - 👍 I love collaborating new people and enjoy working in teams be it in projects. <br><br>
-- &#128220; Here's my <a href="https://drive.google.com/file/d/1w1bi8755DwNuMZtUriYPgC975yLU2WT4/view?usp=sharing">Resume</a> 
+- &#128220; Here's my <a href="https://drive.google.com/file/d/1z3DR6mEHPLnYX8mgaloPXlN1y6B7mxkr/view?usp=share_link">Resume</a> 
  
  <br>
  <br>
